@@ -171,4 +171,4 @@ if st.button("Predict Price"):
     prediction = model.predict(input_df)[0]
 
     # Display result
-    st.success(f"💰 Estimated Laptop Price: $ {prediction:,.2f}")
+    st.success(f"💰 Estimated Laptop Price: EGP {prediction:,.2f}")
