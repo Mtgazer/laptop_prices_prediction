@@ -17,8 +17,13 @@ A Machine Learning project that predicts laptop prices using Linear Regression.
 - Scikit-Learn
 - Streamlit
 
+## Live Demo
+
+(https://laptoppricesprediction-hep2dju2dqpt7vsndzxbrk.streamlit.app/)
+
 ## Run Locally
 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
